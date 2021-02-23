@@ -1,10 +1,10 @@
 # AWS.Lambda.SecurityGroupUpdate
 
-# Doc.AWS.Lambda.SecurityGroupUpdate.Readme
-
 Created: Jan 12, 2021 2:35 PM
-Language: Python
-Tags: Cloud, Ops, s.wu
+
+Language: `Python`
+
+Tags: `Cloud`, `Ops`, `s.wu`
 
 ## Objective
 
